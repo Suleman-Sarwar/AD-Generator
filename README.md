@@ -1,4 +1,4 @@
-# AD-User-Generator
+# AD-Generator
 
 Script to generate a random set of AD users and OU groups.
 
